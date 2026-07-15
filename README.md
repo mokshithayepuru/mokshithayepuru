@@ -2,10 +2,10 @@
 
 ## 🎓 About Me
 - 🎓 B.Tech in Computer Science Engineering (Cyber Security)
-- 📊 Aspiring Data Analyst
-- 💻 Passionate about Data Analytics and Business Intelligence
+- 📊 Aspiring Frontend Developer and Python developer
+- 💻 Passionate about frontend development and Business Intelligence
 - 🌱 Currently learning Python, SQL, Excel, and Power BI
-- 🎯 Looking for Data Analyst Internship and Fresher Opportunities
+- 🎯 Looking for python frontend development Internship and Fresher Opportunities
 
 ## 🛠️ Skills
 - Python
@@ -17,7 +17,7 @@
 - Git & GitHub
 
 ## 📂 Projects
-- 📊 Data Analytics Portfolio
+- 📊  Portfolio website
 - 🐍 Python Practice Projects
 - 📈 Excel Dashboards
 - 🗄️ SQL Query Projects
@@ -30,7 +30,7 @@
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/mokshithayepuru
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: https://www.linkedin.com/in/yepuru-mokshitha
 
 ⭐ Thanks for visiting my profile!
 
