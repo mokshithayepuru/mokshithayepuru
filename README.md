@@ -18,9 +18,6 @@
 
 ## 📂 Projects
 - 📊  Portfolio website
-- 🐍 Python Practice Projects
-- 📈 Excel Dashboards
-- 🗄️ SQL Query Projects
 - 🛡️ Linux-based Ransomware Protection System
 
 ## 📜 Certifications
